@@ -1,3 +1,2 @@
-torch==1.7.1
-transformers==4.12.0.dev0
-tensorflow
+tensorflow==2.4.0
+transformers==4.12.0

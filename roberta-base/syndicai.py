@@ -1,8 +1,6 @@
 import json
-import torch
 
 from transformers import pipeline
-
 
 
 class PythonPredictor:
@@ -13,9 +11,6 @@ class PythonPredictor:
 
         :param config (required): Dictionary passed from API configuration.
         """
-        device = "cuda" if torch.cuda.is_available() else "cpu"
-        print(f"using device: {device}")
-
         self.unmasker = pipeline('fill-mask', model='roberta-base')
     
     def predict(self, payload):
