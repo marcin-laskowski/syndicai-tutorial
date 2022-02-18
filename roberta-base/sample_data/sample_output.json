@@ -1,0 +1,32 @@
+[
+  {
+    "sequence": "My name is Nwoke Tochukwu, I want to be a Machine Learning Engineer so I need to be good at it.",
+    "score": 0.5525070428848267,
+    "token": 24,
+    "token_str": " it"
+  },
+  {
+    "sequence": "My name is Nwoke Tochukwu, I want to be a Machine Learning Engineer so I need to be good at this.",
+    "score": 0.1881076693534851,
+    "token": 42,
+    "token_str": " this"
+  },
+  {
+    "sequence": "My name is Nwoke Tochukwu, I want to be a Machine Learning Engineer so I need to be good at that.",
+    "score": 0.04054170846939087,
+    "token": 14,
+    "token_str": " that"
+  },
+  {
+    "sequence": "My name is Nwoke Tochukwu, I want to be a Machine Learning Engineer so I need to be good at coding.",
+    "score": 0.02440359629690647,
+    "token": 25776,
+    "token_str": " coding"
+  },
+  {
+    "sequence": "My name is Nwoke Tochukwu, I want to be a Machine Learning Engineer so I need to be good at math.",
+    "score": 0.019750047475099564,
+    "token": 10638,
+    "token_str": " math"
+  }
+]
